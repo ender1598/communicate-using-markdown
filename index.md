@@ -9,3 +9,5 @@
 ##### Thankfully they just get smaller and smaller
 
 ###### This is as small as it gets
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
